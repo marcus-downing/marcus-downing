@@ -1,8 +1,6 @@
-### Marcus Dowwning
+### Marcus Downing
 
-## Check out...
-
-### Dyslexic Character Sheets
+## Dyslexic Character Sheets
 
 A set of customisable character sheets for Pathfinder, Starfinder and Dungeons &amp; Dragons.
 
